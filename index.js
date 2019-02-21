@@ -44,14 +44,18 @@ const currentLine = (katzDeliLine) => {
 
 const giveANumber = (katzDeliLine) => {
 
+let count = 0;
+
+count++;
+
+katzDeliLine.push(count);
 
 
+
+return count;
   //give a number starting with 0
   
   //counts total customers
-  
-  
-  
 }
 
 }
