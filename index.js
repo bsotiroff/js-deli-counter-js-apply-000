@@ -41,21 +41,15 @@ const currentLine = (katzDeliLine) => {
   return cleanLineStatus;
 }
 
-let count = 0;
+var count = 0;
+
 const giveANumber = (katzDeliLine) => {
-
-
 
 count++;
 
 katzDeliLine.push(count);
 
-
-
 return count;
-  //give a number starting with 0
-  
-  //counts total customers
 }
 
 }
