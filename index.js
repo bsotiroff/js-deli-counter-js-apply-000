@@ -40,3 +40,18 @@ const currentLine = (katzDeliLine) => {
   
   return cleanLineStatus;
 }
+
+
+const giveANumber = (katzDeliLine) => {
+
+
+
+  //give a number starting with 0
+  
+  //counts total customers
+  
+  
+  
+}
+
+}
