@@ -41,10 +41,10 @@ const currentLine = (katzDeliLine) => {
   return cleanLineStatus;
 }
 
-
+let count = 0;
 const giveANumber = (katzDeliLine) => {
 
-let count = 0;
+
 
 count++;
 
